@@ -80,4 +80,4 @@ rpm -qa |grep -i clamav
 
 
 
-echo ############END OF SCRIPT##############
+echo '############END OF SCRIPT##############'
