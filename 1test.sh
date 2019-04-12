@@ -81,3 +81,26 @@ rpm -qa |grep -i clamav
 
 
 echo '############END OF SCRIPT##############'
+
+
+1.	Project description
+This project is about migration of on-premises datacenter to cloud and another physical location. This project is projected yearlong which is at its end. 
+2.	Culture Environment
+We have team of 15 where we have to interact with QA/business team or developer …
+3.	Job Duties and technologies
+Radhikesh is our sys-admin/dev-ops admin who is mostly involved in deploying, Building and Managing Servers and applications on AWS and on-premises infrastructure using puppet, used Jenkins, docker, Kubernetes for automation of deployment, testing as well as troubleshooting any issue on the servers.
+
+4.	Technical Performance and ability
+I myself finds Radhikesh knowledgeable on what he does and he is always ready to take the challenges and handle it perfectly. 
+5.	Non-Technical Skills
+I find Radhikesh a friendly person whose communication skills is great with great sense of humor.
+6.	Strength and weakness
+He is a good person who is always hungry to learn new things and step forward in heling the team. Within this time of working with him, I could not find any weak point on him. 
+7.	Attendance and Reliability
+As talking about work hours, he is always on-time and I have seen him working late hours if required for supporting different teams. 
+8.	Rehire Eligibility
+I as well as we all would definitely re-hire Radhikesh. 
+9.	Additional Comments
+Personally, I think you will find him more and better than what I explained here in just couple of lines.
+
+
